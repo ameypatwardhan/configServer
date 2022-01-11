@@ -1,0 +1,2 @@
+config.minBalance: 99
+config.maxBalance: 200
